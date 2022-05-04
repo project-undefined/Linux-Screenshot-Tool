@@ -6,5 +6,5 @@ Note: Somtimes when you take a screenshot, the screen can bug out, and flash bla
 ## Installation
 Run this command(s) in the terminal:
 ```
-cd && git clone https://github.com/PitchBlackNights/Linux-Screenshot-Tool.git && cd $HOME/Linux-Screenshot-Tool && chmod +x install.sh && chmod +x Screenshot.sh && ./install.sh
+cd && git clone https://github.com/PitchBlackNights/Linux-Screenshot-Tool.git && cd $HOME/Linux-Screenshot-Tool && chmod +x install.sh && chmod +x Screenshot.sh && ./install.sh && mv Screenshot.sh $HOME/Desktop && cd
 ```
