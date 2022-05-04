@@ -1,6 +1,8 @@
 # Linux Screenshot Tool (LST)
 A tool that allows for you to easily take a screenshot, without needing bloated screenshot applications
 
-## Automatic Installation
+Note: Somtimes when you take a screenshot, the screen can bug out, and flash black. To fix this, just drag your cursor over the flashing parts, and retake the screenshot
 
-## Manual Installation
+## Installation
+Run this command in the terminal:
+`git clone `
