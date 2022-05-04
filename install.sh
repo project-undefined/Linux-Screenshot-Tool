@@ -3,6 +3,9 @@
 sudo apt install scrot
 sudo pip3 install guizero
 sudo rm -rf $HOME/Linux-Screenshot-Tool/.git
+chmod +x Screenshot.sh
+mv Screenshot.sh $HOME/Desktop
+cd
 
 clear
 
