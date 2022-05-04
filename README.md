@@ -5,4 +5,8 @@ Note: Somtimes when you take a screenshot, the screen can bug out, and flash bla
 
 ## Installation
 Run this command in the terminal:
-`git clone `
+```
+git clone https://github.com/PitchBlackNights/Linux-Screenshot-Tool.git
+```
+
+Now navigate to the newly installed package (usually installed in your home directory), and run the "install.sh" file
