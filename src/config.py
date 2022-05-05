@@ -4,18 +4,12 @@ import os
 
 #Save Preset Names
 cfgNames = [
-	"Default",	#DO NOT DELETE THIS LINE
-	"Pictures",
-	"Documents",
-	"Downloads"
+	"Default"	#DO NOT DELETE THIS LINE
 ]
 
 #Save Preset Paths
 cfgPaths = [
-	os.environ['HOME'], #DO NOT DELETE THIS LINE
-	"/home/pi/Pictures",
-	"/home/pi/Documents",
-	"/home/pi/Downloads"
+	os.environ['HOME'] #DO NOT DELETE THIS LINE
 ]
 
 #---------------------------------------------------------------------
